@@ -34,10 +34,9 @@ Sou um programador apaixonado por resolver problemas reais através da tecnologi
 
 ### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Fabbio-Boli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbio-Boli&layout=compact&theme=radical"/>
-</div>
+![Estatísticas do Fabbio](https://github-readme-stats.vercel.app/api?username=Fabbio-Boli&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbio-Boli&layout=compact&theme=radical)
 
 ### 📫 Como me contactar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabbio-boli)
